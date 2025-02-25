@@ -1,0 +1,6 @@
+@Frankenstein2_HostAddress = http://localhost:5187
+
+GET {{Frankenstein2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
