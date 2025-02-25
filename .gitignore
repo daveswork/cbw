@@ -1,7 +1,10 @@
 
 appsettings.json
 
-bin/*
+*bin/*
 
 Debug/*
+
+.vs/*
+*obj/*
 
