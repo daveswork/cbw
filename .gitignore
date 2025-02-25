@@ -8,3 +8,4 @@ Debug/*
 .vs/*
 *obj/*
 
+*.user*
